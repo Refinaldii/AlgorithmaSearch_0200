@@ -6,5 +6,9 @@ int n;
 int i;
 
 void input(){
-	while (true) {}
+	while (true) {
+		cout << "Enter the number of element in the array: ";
+		cin >> n;
+		
+	}
 }
