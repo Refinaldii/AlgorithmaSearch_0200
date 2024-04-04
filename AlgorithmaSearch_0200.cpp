@@ -24,4 +24,9 @@ void input(){
 		cin >> arr[i];
 	}
 }
-void LinearSearch() {}
+void LinearSearch() 
+{
+	char ch;
+	int ctr;
+	int item;
+}
